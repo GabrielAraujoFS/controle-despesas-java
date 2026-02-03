@@ -1,6 +1,6 @@
-#  Controle de Despesas em Java
+#  #  Controle de Despesas em Java
+### Projeto pessoal com menu interativo, lógica e boas práticas em POO
 
-Projeto desenvolvido em **Java** com o objetivo de praticar **lógica de programação**, **Programação Orientada a Objetos (POO)** e **boas práticas**, simulando um sistema simples de controle de despesas via terminal.
 
 ---
 
@@ -44,7 +44,7 @@ src/main/java/ProjetoJava
 Clone o repositório:
 
 ```text
-git clone https://github.com/seu-usuario/controle-despesas-java.git
+git clone https://github.com/GabrielAraujoFS/controle-despesas-java.git
 
 ```
 - Abra o projeto em uma IDE Java (IntelliJ, Eclipse ou VS Code)
